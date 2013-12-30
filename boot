@@ -1,0 +1,1 @@
+Ajax: seletor de  disco.
